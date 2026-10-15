@@ -1,9 +1,14 @@
 import type { Metadata } from "next";
+import { pageSeo } from "./seo";
 
 export const metadata: Metadata = {
-  title: "VisaKit — Free US Visa Tools (H-1B, Visa Bulletin, F1)",
-  description:
-    "Free US visa tools: H-1B lottery odds calculator (FY2027 weighted system), October 2026 visa bulletin checker, and F1 visa interview guide. No signup.",
+  ...pageSeo(
+    "",
+    "VisaKit — Free US Visa Tools (H-1B, Visa Bulletin, F1)",
+    "Free US visa tools: H-1B lottery odds calculator (FY2027 weighted system), October 2026 visa bulletin checker, and F1 visa interview guide. No signup."
+  ),
+  // Avoid duplicated branding on the homepage ("VisaKit ... | VisaKit")
+  title: { absolute: "VisaKit — Free US Visa Tools (H-1B, Visa Bulletin, F1)" },
 };
 
 const tools = [

@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import BulletinChecker from "./calculator";
+import { pageSeo, softwareLd, breadcrumbLd } from "../seo";
 
-export const metadata: Metadata = {
-  title: "Visa Bulletin Oct 2026 — Priority Date Checker (EB-1/EB-2/EB-3)",
-  description:
-    "October 2026 visa bulletin final action dates for EB-1, EB-2, EB-3 (India, China, ROW). Enter your priority date to check if your category is current.",
-};
+export const metadata: Metadata = pageSeo(
+  "/visa-bulletin",
+  "Visa Bulletin Oct 2026 — Priority Date Checker (EB-1/EB-2/EB-3)",
+  "October 2026 visa bulletin final action dates for EB-1, EB-2, EB-3 (India, China, ROW). Enter your priority date to check if your category is current."
+);
 
 const faqLd = {
   "@context": "https://schema.org",
@@ -36,6 +37,25 @@ export default function Page() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            softwareLd("Visa Bulletin Checker", "/visa-bulletin")
+          ),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            breadcrumbLd([
+              { name: "Home", path: "" },
+              { name: "Visa Bulletin Checker", path: "/visa-bulletin" },
+            ])
+          ),
+        }}
       />
       <BulletinChecker />
     </>

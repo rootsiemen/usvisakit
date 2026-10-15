@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
+import { pageSeo } from "../seo";
 
-export const metadata: Metadata = {
-  title: "Privacy Policy",
-  description: "VisaKit privacy policy — no data collection.",
-};
+export const metadata: Metadata = pageSeo(
+  "/privacy",
+  "Privacy Policy",
+  "VisaKit privacy policy — no data collection."
+);
 
 export default function Privacy() {
   return (

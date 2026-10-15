@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://visa.frinjo.me"),
   title: {
     default: "VisaKit — Free US Visa Tools",
     template: "%s | VisaKit",
@@ -25,11 +26,31 @@ export const metadata: Metadata = {
     "f1 visa interview questions",
     "h1b lottery chances",
   ],
+  alternates: {
+    canonical: "https://visa.frinjo.me",
+  },
   openGraph: {
     title: "VisaKit — Free US Visa Tools",
     description:
       "H-1B lottery calculator, visa bulletin checker, F1 interview guide. Free, updated for FY2027.",
+    url: "https://visa.frinjo.me",
+    siteName: "VisaKit",
     type: "website",
+    images: [
+      {
+        url: "https://visa.frinjo.me/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "VisaKit — Free US Visa Tools",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "VisaKit — Free US Visa Tools",
+    description:
+      "H-1B lottery calculator, visa bulletin checker, F1 interview guide. Free, updated for FY2027.",
+    images: ["https://visa.frinjo.me/og-image.png"],
   },
 };
 
@@ -47,6 +68,7 @@ function Header() {
     { href: "/h1b-lottery-calculator", label: "H-1B Calculator" },
     { href: "/visa-bulletin", label: "Visa Bulletin" },
     { href: "/f1-visa-interview", label: "F1 Interview" },
+    { href: "/blog", label: "Blog" },
     { href: "/about", label: "About" },
   ];
   return (

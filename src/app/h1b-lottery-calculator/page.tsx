@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import H1bForm from "./calculator";
+import { pageSeo, softwareLd, breadcrumbLd } from "../seo";
 
-export const metadata: Metadata = {
-  title: "H-1B Lottery Calculator — Your Selection Odds (FY2027)",
-  description:
-    "Estimate your H-1B lottery selection chance under the new wage-weighted system. Based on official FY2027 USCIS data: 211,600 registrations, ~40% overall odds.",
-};
+export const metadata: Metadata = pageSeo(
+  "/h1b-lottery-calculator",
+  "H-1B Lottery Calculator — Your Selection Odds (FY2027)",
+  "Estimate your H-1B lottery selection chance under the new wage-weighted system. Based on official FY2027 USCIS data: 211,600 registrations, ~40% overall odds."
+);
 
 const faqLd = {
   "@context": "https://schema.org",
@@ -44,6 +45,25 @@ export default function Page() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            softwareLd("H-1B Lottery Calculator", "/h1b-lottery-calculator")
+          ),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            breadcrumbLd([
+              { name: "Home", path: "" },
+              { name: "H-1B Lottery Calculator", path: "/h1b-lottery-calculator" },
+            ])
+          ),
+        }}
       />
       <H1bForm />
     </>

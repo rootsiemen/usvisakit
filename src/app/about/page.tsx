@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
+import { pageSeo } from "../seo";
 
-export const metadata: Metadata = {
-  title: "About VisaKit",
-  description: "About VisaKit — free US visa tools and guides.",
-};
+export const metadata: Metadata = pageSeo(
+  "/about",
+  "About VisaKit",
+  "About VisaKit — free US visa tools and guides."
+);
 
 export default function About() {
   return (

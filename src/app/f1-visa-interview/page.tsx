@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
+import { pageSeo, breadcrumbLd } from "../seo";
 
-export const metadata: Metadata = {
-  title: "F1 Visa Interview Guide — Questions & Tips (2026)",
-  description:
-    "Prepare for your F1 student visa interview: common question groups with sample questions and 10 practical tips on finances, ties to home, and confidence.",
-};
+export const metadata: Metadata = pageSeo(
+  "/f1-visa-interview",
+  "F1 Visa Interview Guide — Questions & Tips (2026)",
+  "Prepare for your F1 student visa interview: common question groups with sample questions and 10 practical tips on finances, ties to home, and confidence."
+);
 
 const groups: { title: string; why: string; questions: string[] }[] = [
   {
@@ -76,6 +77,18 @@ const tips = [
 
 export default function F1Guide() {
   return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            breadcrumbLd([
+              { name: "Home", path: "" },
+              { name: "F1 Visa Interview Guide", path: "/f1-visa-interview" },
+            ])
+          ),
+        }}
+      />
     <div className="mx-auto max-w-3xl px-4 py-10">
       <h1 className="text-3xl font-extrabold tracking-tight">
         F1 Visa Interview Guide
@@ -114,5 +127,6 @@ export default function F1Guide() {
         experiences — not legal advice. Requirements vary by consulate.
       </p>
     </div>
+    </>
   );
 }
