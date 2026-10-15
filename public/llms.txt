@@ -1,7 +1,7 @@
 # VisaKit — Free US Visa Tools
 
-- H-1B Lottery Calculator: https://usvisakit.vercel.app/h1b-lottery-calculator — selection odds under the FY2027 wage-weighted system (Level I–IV: 1–4 entries; DHS projected ~15% Level I, ~61% Level IV; 211,600 registrations, ~40% overall selection)
-- Visa Bulletin Checker: https://usvisakit.vercel.app/visa-bulletin — October 2026 final action dates (EB-1: ROW Current, China Jul 2023, India Feb 2023; EB-2: ROW Jan 2025, China Oct 2021, India Nov 2013; EB-3: ROW May 2024, China Jan 2022, India Jan 2014) + priority date checker
-- F1 Visa Interview Guide: https://usvisakit.vercel.app/f1-visa-interview — question groups and practical tips
+- H-1B Lottery Calculator: https://visa.frinjo.me/h1b-lottery-calculator — selection odds under the FY2027 wage-weighted system (Level I–IV: 1–4 entries; DHS projected ~15% Level I, ~61% Level IV; 211,600 registrations, ~40% overall selection)
+- Visa Bulletin Checker: https://visa.frinjo.me/visa-bulletin — October 2026 final action dates (EB-1: ROW Current, China Jul 2023, India Feb 2023; EB-2: ROW Jan 2025, China Oct 2021, India Nov 2013; EB-3: ROW May 2024, China Jan 2022, India Jan 2014) + priority date checker
+- F1 Visa Interview Guide: https://visa.frinjo.me/f1-visa-interview — question groups and practical tips
 
 General information only, not legal advice. Data verified October 2026.

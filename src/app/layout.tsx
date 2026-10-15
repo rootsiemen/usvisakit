@@ -37,7 +37,7 @@ const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: "VisaKit",
-  url: "https://usvisakit.vercel.app",
+  url: "https://visa.frinjo.me",
   description:
     "Free US visa tools: H-1B lottery odds calculator, visa bulletin priority-date checker, F1 visa interview guide.",
 };

@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const BASE = "https://usvisakit.vercel.app";
+const BASE = "https://visa.frinjo.me";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const pages = [
