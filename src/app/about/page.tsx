@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { pageSeo } from "../seo";
+import { pageSeo, BASE, SITE_NAME } from "../seo";
 
 export const metadata: Metadata = pageSeo(
   "/about",
@@ -8,8 +8,25 @@ export const metadata: Metadata = pageSeo(
 );
 
 export default function About() {
+  const aboutLd = {
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    name: "About VisaKit",
+    url: `${BASE}/about`,
+    about: {
+      "@type": "Organization",
+      name: SITE_NAME,
+      url: BASE,
+      logo: `${BASE}/icon.png`,
+    },
+  };
+
   return (
     <div className="mx-auto max-w-3xl px-4 py-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(aboutLd) }}
+      />
       <h1 className="text-3xl font-extrabold tracking-tight">About VisaKit</h1>
       <p className="mt-4 text-zinc-600">
         VisaKit is a free toolkit for US visa applicants: an H-1B lottery odds

@@ -4,6 +4,12 @@ export const BASE = "https://visa.frinjo.me";
 const OG_IMAGE = `${BASE}/og-image.png`;
 export const SITE_NAME = "VisaKit";
 
+/** og:image alt without doubled branding ("VisaKit — VisaKit — …"). */
+function ogAlt(title: string): string {
+  const clean = title.replace(/\s\|\sVisaKit$/, "").trim();
+  return clean.startsWith(SITE_NAME) ? clean : `${SITE_NAME} — ${clean}`;
+}
+
 /** Full per-page SEO metadata: canonical + Open Graph + Twitter cards. */
 export function pageSeo(
   path: string,
@@ -21,7 +27,7 @@ export function pageSeo(
       url,
       siteName: SITE_NAME,
       type: "website",
-      images: [{ url: OG_IMAGE, width: 1200, height: 630, alt: `${SITE_NAME} — ${title}` }],
+      images: [{ url: OG_IMAGE, width: 1200, height: 630, alt: ogAlt(title) }],
     },
     twitter: {
       card: "summary_large_image",

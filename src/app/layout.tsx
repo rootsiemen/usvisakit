@@ -63,6 +63,17 @@ const jsonLd = {
     "Free US visa tools: H-1B lottery odds calculator, visa bulletin priority-date checker, F1 visa interview guide.",
 };
 
+/** Site brand entity for AI-search/GEO consistency. */
+const orgLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "VisaKit",
+  url: "https://visa.frinjo.me",
+  logo: "https://visa.frinjo.me/icon.png",
+  description:
+    "Free US visa tools: H-1B lottery odds calculator, visa bulletin priority-date checker, F1 visa interview guide.",
+};
+
 function Header() {
   const links = [
     { href: "/h1b-lottery-calculator", label: "H-1B Calculator" },
@@ -124,6 +135,10 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(orgLd) }}
         />
       </head>
       <body className="min-h-full flex flex-col bg-zinc-50 text-zinc-900">
