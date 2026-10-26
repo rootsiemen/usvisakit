@@ -215,6 +215,99 @@ export const posts: Post[] = [  {
 <p>Nervous is normal. Dishonest is fatal. Walk in prepared, answer directly, and let your genuine plans do the work.</p>
 `,
   },
+  {
+    slug: "how-to-check-us-visa-status-on-ceac",
+    title: "How to Check US Visa Status on CEAC After Your Interview",
+    date: "2026-10-26",
+    excerpt:
+      "Your interview is over and now CEAC is the only place with answers. Here is how to check your US visa status on CEAC step by step, what Issued, Administrative Processing and Refused really mean, and what to do next.",
+    description:
+      "How to check US visa status on CEAC: step-by-step NIV and IV checks, what Issued, Administrative Processing and Refused mean, and what to do next.",
+    keywords: [
+      "how to check US visa status on CEAC",
+      "CEAC visa status check",
+      "US visa status after interview",
+      "administrative processing CEAC",
+      "CEAC case status issued refused",
+    ],
+    toolHref: "/f1-visa-interview",
+    toolName: "F1 Interview Guide",
+    toolCta:
+      "Still preparing for the interview itself? Our free F1 Interview Guide covers every question group consular officers ask — open it alongside this status guide.",
+    contentHtml: `
+<h2>What CEAC is — and what it is not</h2>
+<p>If you have just left the consulate wondering how to check US visa status on CEAC, you are not alone. CEAC — the Consular Electronic Application Center — is the US Department of State's official portal where visa applicants track what happens to their case after the interview. It is the same system that held your DS-160 form, and after your interview it becomes the place that tells you whether your visa has been issued, is still under review, or was refused.</p>
+<p>Two things about CEAC surprise first-time applicants. First, CEAC does not update instantly. Your interview may have gone perfectly, but the status often takes a few days to change, because the consulate still has to process the decision, print the visa, and hand the passport to the courier. Checking the same evening and seeing the old status does not mean something went wrong. Second, CEAC shows your visa decision — not your passport's physical location. Once your passport leaves the consulate, a separate courier tracker follows the delivery. Confusing these two trackers is the most common reason applicants panic for no reason, and we untangle them below.</p>
+<p>This guide is about the public CEAC tracker only. It is not legal advice, and for a complicated case — a prior refusal, a long security check, or a revoked visa — an immigration attorney is the right person to ask, not a status page.</p>
+
+<h2>How to check US visa status on CEAC: the step-by-step process</h2>
+<p>For most readers, this is a nonimmigrant visa case — a tourist, student, or work visa such as B-1/B-2, F-1, or H-1B. On CEAC, these are labelled NIV (Nonimmigrant Visa). Here is the exact process:</p>
+<ol>
+<li><strong>Go to the official CEAC site.</strong> The only genuine address is ceac.state.gov. Type it yourself rather than clicking a link in an email or an ad — fake "visa status" sites exist, and they harvest passport numbers. If a site asks you to pay to check your status, it is not CEAC; the official tracker is free.</li>
+<li><strong>Choose the nonimmigrant section.</strong> On the CEAC homepage, look for the nonimmigrant visa area and select "Check My Visa Application Status." Do not reopen your DS-160 here — the status check is a separate function.</li>
+<li><strong>Select the location of your interview.</strong> Pick the exact US embassy or consulate where you were interviewed, from the dropdown. This matters: your case lives at that post, and choosing a different city can return no record even when your case is fine.</li>
+<li><strong>Enter your Application ID or Case Number.</strong> For a nonimmigrant case, this is the DS-160 confirmation number from your confirmation page — it starts with "AA" followed by letters and numbers. Copy it character by character from the confirmation page, not from memory: the most common "no record found" error is a single mistyped character.</li>
+<li><strong>Enter the other details CEAC asks for.</strong> Depending on the post, CEAC asks for your passport number and the first five letters of your surname. If your surname is shorter than five letters, enter what you have. Use the passport you applied with, not a renewed one.</li>
+<li><strong>Complete the captcha and submit.</strong> CEAC shows a captcha image to prove you are human. If it is unreadable, refresh it rather than guessing repeatedly — too many failed attempts can temporarily lock you out.</li>
+<li><strong>Read the status and the date.</strong> CEAC shows a status word and a "last updated" date. That date is important: if it has not changed since your interview, the consulate simply has not posted an update yet. Bookmark the page and check once a day, not once an hour — the status will not change faster because you refresh it.</li>
+</ol>
+<p>Before you start, have three things in front of you: your DS-160 confirmation page, the passport you applied with, and the name of the consulate. If you prepared for the interview using our <a href="/blog/f1-visa-interview-questions-2026">F1 interview guide</a>, this is the natural next step after that interview — the same case number you carried into the consulate is the one you track here.</p>
+
+<h2>Checking an immigrant visa case (IV) on CEAC</h2>
+<p>Immigrant visa cases — family-based or employment-based green card cases processed at a consulate — work slightly differently. On CEAC these are labelled IV (Immigrant Visa), and the key number is not a DS-160 confirmation but the immigrant visa case number issued by the National Visa Center (NVC). It typically looks like three letters followed by ten digits, for example a post code plus a year and a serial number, with no dashes or spaces.</p>
+<p>The steps are otherwise the same: go to ceac.state.gov, choose the immigrant visa status check, select your interview location, and enter the case number exactly as the NVC wrote it. Immigrant cases also have a second stage that nonimmigrant cases do not: before the interview, CEAC shows whether your documents are complete and your case is "documentarily qualified." After the interview, it shows the decision status in the same way.</p>
+<p>If your immigrant case is employment-based, your place in line is governed by the visa bulletin, not by CEAC — CEAC tells you what happened to your case, while the bulletin tells you whether a visa number is available at all. Our <a href="/blog/october-2026-visa-bulletin-analysis">October 2026 visa bulletin analysis</a> explains how to read final action dates for your category and country, and our <a href="/visa-bulletin">Visa Bulletin Checker</a> lets you test your own priority date against the current bulletin.</p>
+
+<h2>What each CEAC status actually means</h2>
+<p>CEAC uses a small set of status words, and each one means something specific. Here is the full list you are likely to see:</p>
+<table>
+<thead><tr><th>Status</th><th>What it means</th><th>What to do</th></tr></thead>
+<tbody>
+<tr><td><strong>Application Received</strong></td><td>Your case is in the system but no decision has been posted yet. This is normal right after the interview.</td><td>Wait. Check again in a few days.</td></tr>
+<tr><td><strong>Administrative Processing</strong></td><td>Your case needs additional review before a decision. This is routine in many cases and is not a refusal.</td><td>Respond promptly to any document request; otherwise wait.</td></tr>
+<tr><td><strong>Issued</strong></td><td>Your visa has been approved and printed. Your passport is on its way to you through the courier or pickup point.</td><td>Track passport delivery separately; check the visa foil when it arrives.</td></tr>
+<tr><td><strong>Refused</strong></td><td>Your visa was not approved. The consulate should have explained the reason at the interview or in a written notice.</td><td>Read the refusal notice carefully before deciding on a new application.</td></tr>
+</tbody>
+</table>
+<p>A note on wording: some older guides say CEAC shows "Approved." In practice, the status that means success on CEAC is "Issued" — it appears once the visa has actually been printed. If a guide or a forum post says "approved," it almost always means this same "Issued" status. Also, do not confuse "Refused" under administrative processing rules with a final refusal: a case can sit in Administrative Processing and later change to Issued, and a case marked Refused after a 221(g) notice may still be resolved once the requested documents are provided. The status word alone is not the whole story — the letter or notice you received at the interview is.</p>
+
+<h2>Administrative Processing: the status that worries everyone</h2>
+<p>Administrative Processing is the status applicants fear most, and it is also the most misunderstood. It means the consulate needs more time — for additional background checks, to verify a document, or to review something that came up in the interview. It is a standard part of the process for a large number of cases, and many cases in Administrative Processing end up issued.</p>
+<p>How long it lasts varies enormously: some cases clear in days, others take weeks, and a minority take months. There is no published deadline, and the consulate will not give you one if you call. That uncertainty is the hard part, but it is not a signal about the outcome. What you can do while waiting is limited but real: first, respond immediately and completely to any request for documents — a 221(g) letter tells you exactly what is missing, and the clock does not move until you send it. Second, do not book non-refundable travel until the status changes to Issued. Third, do not submit a second visa application for the same trip while the first case is still in processing, unless the consulate tells you to — a duplicate application does not speed anything up and can complicate the pending case.</p>
+<p>If months pass with no change and no document request outstanding, you can contact the consulate that interviewed you through its official inquiry channel and ask for an update. Keep that message short: your case number, interview date, and a one-line request for a status update. Repeated messages do not move a security check faster, but a single polite inquiry after a long silence is reasonable. For H-1B applicants, note the split of responsibility: your employer's petition is tracked through USCIS, while the consulate stage is tracked here on CEAC. Our <a href="/blog/h1b-lottery-wage-weighted-selection-2027">H-1B lottery guide</a> explains the petition side; CEAC covers what happens after that petition reaches the consulate.</p>
+
+<h2>CEAC vs USCIS vs passport tracking: three different trackers</h2>
+<p>Applicants often check the wrong tracker and conclude something is wrong. There are three, and they answer three different questions:</p>
+<ul>
+<li><strong>CEAC (ceac.state.gov)</strong> answers: what did the consulate decide about my visa? Use it after your interview, for both nonimmigrant and immigrant cases.</li>
+<li><strong>USCIS Case Status</strong> answers: what happened to my petition inside the United States — for example an I-129 work petition, an I-130 family petition, or an I-485 adjustment of status? You check it with a USCIS receipt number, not a DS-160 number. If you are adjusting status inside the US and never went to a consulate, CEAC is not your tracker at all.</li>
+<li><strong>Courier / passport tracking</strong> answers: where is my passport physically, now that the visa is issued? This tracker only starts moving once the consulate hands the passport over. It is run by the delivery service for your country, and in many countries you reach it from the same appointment account you used to schedule the interview.</li>
+</ul>
+<p>The practical rule: before the interview, your case lives in the appointment system; at the interview, the consulate decides; after the interview, CEAC reports the decision; after "Issued," the courier reports the delivery. If CEAC says "Issued" but the courier shows nothing yet, that is normal for a day or two — the handover takes time. If the courier shows movement but CEAC still says "Administrative Processing," trust CEAC for the decision and the courier only for the parcel.</p>
+
+<h2>CEAC errors and fixes</h2>
+<p>Most CEAC problems are data-entry problems, not case problems. Work through this list before assuming the worst:</p>
+<ul>
+<li><strong>"No record found" or "invalid case number."</strong> First, check you selected the right visa type: NIV for tourist, student, and work visas; IV for immigrant cases. Then re-enter the number from the document itself, watching for zeros that look like the letter O, and ones that look like the letter I. For nonimmigrant cases, make sure you are using the DS-160 confirmation number for the application you actually interviewed with — if you filled out a new DS-160 after scheduling, the old number will not match the interview.</li>
+<li><strong>Wrong location.</strong> The dropdown must be the post where you interviewed. Applicants who interviewed in one city and check another city's post will get no record. If you are unsure, the city is printed on your appointment confirmation.</li>
+<li><strong>Status has not changed since the interview.</strong> This is expected for the first few days. Consulates update CEAC in batches, and weekends and local holidays pause updates. Only start worrying if weeks pass with no change and no document request.</li>
+<li><strong>Captcha keeps failing.</strong> Refresh the image, type slowly, and try a different browser if it keeps rejecting you. Avoid rapid repeated attempts, which can trigger a temporary block.</li>
+<li><strong>The page will not load at all.</strong> CEAC occasionally goes down for maintenance, usually outside US business hours. Try again later before concluding anything about your case — and never enter your passport number on a lookalike site that appears when the real one is down.</li>
+<li><strong>Someone else filled out your DS-160.</strong> If an agent used their own email or kept your confirmation page, get the Application ID from them now. Without it you cannot check your own case, and you should not need an agent's permission to see your own status.</li>
+</ul>
+
+<h2>After your status changes to Issued</h2>
+<p>"Issued" means the visa is printed and your passport is on its way. Switch to the courier tracker from your appointment account and watch for the delivery or pickup notice. When the passport arrives, check the visa foil immediately, before you travel: your name and date of birth, the visa class (for example B1/B2 or F1), the number of entries, and the validity dates. Errors on the foil are rare but much easier to fix before you fly than at the airport.</p>
+<p>Also check the annotation line, if there is one: for students it may note your school and SEVIS number, and for workers it may note the petition. If anything on the foil does not match your passport or your approval, contact the consulate that issued it right away — do not travel on a visa with an error and hope nobody notices. And keep your DS-160 confirmation page and interview documents even after the visa arrives; if you ever apply again, consistency with your previous application is exactly what the next officer will check.</p>
+
+<h2>Frequently asked questions</h2>
+<p><strong>How long after the interview does CEAC update?</strong> Usually within a few days, but there is no fixed schedule. Some cases update the next working day; others take longer, especially if the decision needs a supervisor's sign-off or a document check. A status that has not moved a day after the interview is normal, not a bad sign.</p>
+<p><strong>Can I check my US visa status with just my passport number?</strong> No — CEAC needs your case number as well. For a nonimmigrant visa that is the DS-160 confirmation number starting with "AA"; for an immigrant visa it is the NVC case number. The passport number alone is not enough to find your case.</p>
+<p><strong>Does Administrative Processing mean my visa will be refused?</strong> Not necessarily. It means additional review is needed, and many cases in Administrative Processing are eventually issued. It only becomes a refusal if the review ends in a refusal decision, which CEAC will then show as "Refused" together with the notice explaining why.</p>
+<p><strong>Why does CEAC say "Issued" but I still do not have my passport?</strong> Because "Issued" means the visa was printed, not that the passport was delivered. Delivery is a separate step handled by the courier, and it typically takes a few more days. Track the parcel through the courier link in your appointment account.</p>
+<p><strong>What should I do if CEAC shows "Refused"?</strong> First, find the reason: the officer usually explains it at the interview, and you may also receive a written notice citing the section of law, such as 214(b) for nonimmigrant intent or 221(g) for missing documents. A 221(g) refusal can often be resolved by providing what was asked for, while a 214(b) refusal means you need a materially stronger application next time — new evidence, changed circumstances, and a clear answer to the concern that was raised. Do not reapply immediately with the same application and hope for a different officer.</p>
+`,
+  },
 ];
 
 export function getPost(slug: string): Post | undefined {
