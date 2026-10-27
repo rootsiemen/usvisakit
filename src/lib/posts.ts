@@ -308,6 +308,116 @@ export const posts: Post[] = [  {
 <p><strong>What should I do if CEAC shows "Refused"?</strong> First, find the reason: the officer usually explains it at the interview, and you may also receive a written notice citing the section of law, such as 214(b) for nonimmigrant intent or 221(g) for missing documents. A 221(g) refusal can often be resolved by providing what was asked for, while a 214(b) refusal means you need a materially stronger application next time — new evidence, changed circumstances, and a clear answer to the concern that was raised. Do not reapply immediately with the same application and hope for a different officer.</p>
 `,
   },
+  {
+    slug: "ds-160-photo-requirements-2026",
+    title: "DS-160 Photo Requirements 2026: Size, Specs and How to Fix a Rejected Photo",
+    date: "2026-10-27",
+    excerpt:
+      "A wrong photo is one of the easiest ways to stall a US visa application. Here are the exact DS-160 photo requirements — size, format, head and eye rules — and how to fix every common rejection.",
+    description:
+      "DS-160 photo requirements explained: 2x2 size, 600x600-1200x1200 JPEG under 240KB, head and eye rules, and how to fix a rejected photo fast.",
+    keywords: [
+      "ds-160 photo requirements",
+      "ds-160 photo rejected",
+      "us visa photo size 2x2",
+      "ds-160 photo upload error",
+      "us visa photo specifications",
+    ],
+    toolHref: "/f1-visa-interview",
+    toolName: "F1 Interview Guide",
+    toolCta:
+      "Photo sorted? The interview is the next hurdle. Our free F1 Interview Guide covers every question group consular officers ask — open it alongside this photo guide.",
+    contentHtml: `
+<h2>DS-160 photo requirements at a glance</h2>
+<p>The DS-160 photo requirements are the most mechanical part of a US visa application — and one of the most common reasons applications get delayed. Unlike the interview, where an officer judges your answers, the photo is judged against a fixed set of numbers: pixel dimensions, file size, head height, eye position, background colour, and recency. Get one number wrong and the upload tool rejects the file; get the framing wrong and the consulate can flag it at the interview window instead. The good news is that every one of these rules is public, fixed, and easy to check before you submit — which is exactly what this guide walks through, rule by rule, with fixes for each rejection.</p>
+<p>One important distinction first: a US visa photo is not the same as a US passport photo for online passport renewal. Passport renewal now accepts several file types, but the DS-160 upload is stricter — JPEG only, square only, and under 240 KB. Using a file that passed some other government portal is no guarantee it will pass the DS-160. This guide covers the visa rules only, as published by the US Department of State on travel.state.gov.</p>
+
+<h2>The exact digital file specs</h2>
+<p>Before anything about your face, the file itself has to pass. The DS-160 upload tool checks the file before any human looks at the photo, so a technically wrong file fails no matter how good you look in it:</p>
+<table>
+<thead><tr><th>Rule</th><th>Requirement</th></tr></thead>
+<tbody>
+<tr><td><strong>Format</strong></td><td>JPEG (.jpg) only — not PNG, HEIC, PDF, or a screenshot</td></tr>
+<tr><td><strong>Shape</strong></td><td>Square, height exactly equal to width</td></tr>
+<tr><td><strong>Pixel size</strong></td><td>600 x 600 to 1200 x 1200 pixels</td></tr>
+<tr><td><strong>File size</strong></td><td>240 KB or less</td></tr>
+<tr><td><strong>Colour</strong></td><td>Full colour, 24-bit, sRGB colour space</td></tr>
+<tr><td><strong>Compression</strong></td><td>Compression ratio of 20:1 or less</td></tr>
+<tr><td><strong>Print size (if asked)</strong></td><td>2 x 2 inches (51 x 51 mm) on photo paper</td></tr>
+<tr><td><strong>Recency</strong></td><td>Taken within the last 6 months, showing your current appearance</td></tr>
+</tbody>
+</table>
+<p>The 240 KB ceiling causes the most confusion, because a modern phone photo is usually 2–5 MB. You have to resize and compress it — but not too far. Because the compression ratio may not exceed 20:1, a 600 x 600 photo squeezed below roughly 54 KB can fail for being over-compressed, even though it is under the size limit. In practice, a 600 x 600 JPEG saved at normal quality lands around 80–150 KB, comfortably inside the window. If your file is over 240 KB, resize to 600 x 600 first and only then lower the quality — never start by crushing quality on a full-resolution phone photo. And never rename a PNG to .jpg and hope: the tool reads the actual file format, not the extension. Convert properly in any free image editor first.</p>
+<p>Also note the 6-month rule is about the photo, not the person. A photo from two years ago that still looks like you is technically non-compliant, and reusing a photo from a previous visa application can be flagged as well. If your appearance has changed — new glasses, a beard grown or removed, significant weight change — take a fresh photo even if the old one is technically within date.</p>
+
+<h2>Head, eyes and framing: the two proportions that fail most</h2>
+<p>Most rejected photos have the right pixel size and the right file size, and still fail — because of framing. The State Department measures two proportions on the digital image, and both are checked automatically:</p>
+<ul>
+<li><strong>Head height: 50% to 69% of the image height.</strong> Measure from the bottom of the chin to the top of the head (including hair). On a 600 x 600 image, that means your head should occupy roughly 300 to 414 pixels of height. Too small in the frame is the single most common home-photo failure: people stand too far from the camera and end up with a head that fills only a third of the image.</li>
+<li><strong>Eye height: 56% to 69% from the bottom of the image.</strong> Your eyes should sit in the upper-middle band of the frame — on a 600 x 600 image, roughly 336 to 414 pixels up from the bottom edge. Eyes too low usually means the photo was cropped from the top; eyes too high means too much empty space below the chin.</li>
+</ul>
+<p>For a printed 2 x 2 inch photo, the same proportions translate to physical measurements: head height 1 to 1 3/8 inches (25 to 35 mm) from chin to crown, and eye height 1 1/8 to 1 3/8 inches (28 to 35 mm) from the bottom of the photo. Face the camera directly, with your full face visible and centred — not turned, tilted, or pushed to one side. The State Department offers a free photo tool that crops an uploaded photo to exactly 600 x 600 with the correct proportions, and it is worth using if your first attempt keeps failing: it removes the guesswork from the crop, which is where most DIY attempts go wrong.</p>
+<p>A practical check before uploading: open the image and look at it as a stranger would. Is there roughly equal space on both sides of the head? Is the top of the hair comfortably inside the frame, not touching the edge? Is the chin well clear of the bottom? If any answer is no, re-crop rather than re-shoot — most framing failures are cropping failures, not camera failures.</p>
+
+<h2>Background, lighting, glasses and clothing rules</h2>
+<p>The remaining rules are about what surrounds and covers your face:</p>
+<ul>
+<li><strong>Background: plain white or off-white.</strong> No patterns, no coloured walls, no objects, no shadows, no other people. A plain light wall in daylight is the easiest compliant background at home; a white bedsheet hung flat works if it has no wrinkles casting shadows.</li>
+<li><strong>Lighting: even, with no shadows on the face or background.</strong> The most common lighting failure is standing too close to the wall, so your body casts a shadow behind your head. Stand a step away from the wall, face a window in soft daylight (not direct sun), and avoid overhead lamps that throw shadows under the eyes.</li>
+<li><strong>Expression: neutral, mouth closed, both eyes open, looking directly at the camera.</strong> A faint natural smile is acceptable; a broad smile showing teeth, or a frown, is not. Keep your head level — no tilting up or down.</li>
+<li><strong>Glasses: not allowed.</strong> Since November 2016, eyeglasses are not permitted in US visa photos, even clear ones, because of glare and reflections. The only exception is a rare medical reason where glasses cannot be removed, which needs a signed statement from a medical professional. If you normally wear glasses, take them off for the photo — and remember the officer at the interview will still see you as you are, glasses or not.</li>
+<li><strong>Head coverings: only religious coverings worn daily.</strong> A religious head covering is allowed only if it does not obscure or shadow any part of the face. Hats, caps, headphones, earbuds, and hands-free devices are not allowed, and hair must not cover the face or eyes.</li>
+<li><strong>Clothing: everyday clothes, no uniforms.</strong> You do not need formal dress, but uniforms (other than religious clothing worn daily) are not accepted.</li>
+<li><strong>No editing that changes your appearance.</strong> Filters, skin smoothing, face reshaping, eye-colour changes, and AI enhancement are all grounds for rejection. Basic colour balance is fine; anything that makes you look like a different person is not. Never submit a scanned print, a photo copied from a passport or driving licence, or a screenshot — scanning degrades sharpness and usually fails the quality check.</li>
+</ul>
+<p>Selfies deserve a special warning: a phone held at arm's length distorts facial proportions — the nose looks larger, the face narrower — and the angle is rarely straight-on. Have someone else take the photo, or prop the phone on a stable surface with a timer, at eye level, about 1.5 metres away.</p>
+
+<h2>How to take a compliant photo at home, step by step</h2>
+<p>You do not need a studio. You need a plain wall, daylight, and ten careful minutes:</p>
+<ol>
+<li><strong>Pick the wall and the light.</strong> A plain white or off-white wall, facing a window on a bright but overcast day or in indirect daylight. Avoid direct sunlight (harsh shadows, squinting) and avoid a room lit only by a ceiling bulb.</li>
+<li><strong>Position yourself.</strong> Stand about 30 cm (a foot) away from the wall, facing the camera straight on, shoulders square, head level. Remove glasses, hats, and headphones. Tuck hair behind the ears if it falls across the face.</li>
+<li><strong>Position the camera.</strong> At your eye level, about 1.5 metres away, held or propped steady. Frame from the top of the head to mid-chest, with space above the hair — you will crop tighter later, and cropping down is always easier than cropping up.</li>
+<li><strong>Take several shots.</strong> Neutral expression, mouth closed, both eyes open, looking straight into the lens. Take at least five frames and pick the sharpest — slightly soft focus is a rejection reason, and you cannot sharpen a blurry photo into compliance.</li>
+<li><strong>Crop to a square.</strong> Crop to exactly 1:1, with the head at 50–69% of the frame height and the eyes at 56–69% from the bottom. The State Department's free photo tool does this crop for you if you are unsure.</li>
+<li><strong>Export correctly.</strong> Export as JPEG, 600 x 600 pixels minimum (1200 x 1200 maximum), sRGB colour, and check the file size is 240 KB or less. If it is over, lower the quality one step at a time and re-check — do not resize below 600 x 600 to save space.</li>
+<li><strong>Verify before uploading.</strong> Open the exported file and check: square shape, correct pixel size, file under 240 KB, plain background, no shadows, no glasses, neutral expression. Only then upload it to the DS-160.</li>
+</ol>
+<p>If you are applying for a student visa, this photo sits alongside the rest of your interview preparation. Our <a href="/blog/f1-visa-interview-questions-2026">F1 interview guide</a> covers the documents to carry and the questions officers actually ask — the photo is just the first impression, and the interview is where the decision is made. Work visa applicants face the same photo rules on the same DS-160 form, whatever the category: our <a href="/blog/h1b-lottery-wage-weighted-selection-2027">H-1B lottery guide</a> explains the petition side for H-1B applicants, and the photo upload in their DS-160 follows exactly the rules above.</p>
+
+<h2>Why the DS-160 photo upload fails — and how to fix each error</h2>
+<p>The DS-160 uploader rarely tells you which rule you broke, so use this table to diagnose the failure:</p>
+<table>
+<thead><tr><th>Symptom</th><th>Likely cause</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td><strong>"Image too large" or upload refused</strong></td><td>File over 240 KB</td><td>Resize to 600 x 600, then lower JPEG quality until under 240 KB</td></tr>
+<tr><td><strong>"Invalid file extension" or format error</strong></td><td>PNG, HEIC, or renamed file</td><td>Convert properly to JPEG in an image editor; iPhone users must convert HEIC first</td></tr>
+<tr><td><strong>"Photo does not meet requirements"</strong></td><td>Non-square crop, head too small, or eyes misplaced</td><td>Re-crop to 1:1 with head at 50–69% and eyes at 56–69% from the bottom</td></tr>
+<tr><td><strong>"Illumination error"</strong></td><td>Shadows on the face or background</td><td>Retake in soft window light, standing away from the wall</td></tr>
+<tr><td><strong>Upload fails repeatedly with no clear error</strong></td><td>Browser or connection issue</td><td>Try a different browser, clear cache and cookies, disable ad blockers, or try another device</td></tr>
+<tr><td><strong>Confirmation page shows an X instead of the photo</strong></td><td>Photo was not accepted on submission</td><td>Bring printed 2 x 2 photos to the interview (see below); do not resubmit the whole DS-160 for the photo alone</td></tr>
+<tr><td><strong>Photo looks blurry on the confirmation page</strong></td><td>Over-compression or a scanned print</td><td>Start from a sharp original; keep compression at 20:1 or less and never submit a scan</td></tr>
+</tbody>
+</table>
+<p>Two warnings that save real time. First, do not keep hammering the upload button with the same file: repeated failed attempts can temporarily lock you out of the form, and the file will not pass on the fifth try if it failed the first four. Change something — the format, the crop, or the browser — before trying again. Second, do not pay a random website to "fix" your photo: the official check is free, the State Department's own photo tool is free, and any site that charges to check a photo is selling you something the government gives away.</p>
+
+<h2>Babies, children and special cases</h2>
+<p>Children's photos follow the same rules, with a few practical allowances. No other person may appear in the photo, and no supporting hands or arms may be visible — which makes photographing a baby genuinely tricky. The accepted approach is to photograph the baby lying on a plain white or off-white sheet, or sitting in a car seat covered with a plain sheet, provided no supporting objects or shadows on the face are visible in the final image. The baby should be looking at the camera with both eyes open, which usually means several attempts and a patient helper.</p>
+<p>For older children, the same head and eye proportions apply, and the same glasses and head-covering rules. A school uniform is not accepted as everyday clothing, so dress the child in normal clothes for the photo even if the photo is taken at school. If a child wears glasses for medical reasons, the same medical-exception statement rule applies as for adults — but in practice, removing the glasses for the photo is simpler unless removal is genuinely not possible.</p>
+<p>Applicants who wear a religious head covering daily should keep it on, but check carefully that it casts no shadow on the face and covers no facial feature — the forehead, cheeks, and chin must all be fully visible. If the covering's edge shadows the face in your test shot, adjust the lighting (softer, more frontal) rather than adjusting the covering.</p>
+
+<h2>Printed photo backup: what to bring to the interview</h2>
+<p>Even with a successful upload, bring printed photos to the interview. Consulates sometimes ask for a printed photo if the uploaded image does not print cleanly, and if your upload failed entirely, the printed photo is your fallback: US consular practice allows applicants to submit a physical photo at the interview when the DS-160 upload could not be completed. Bring at least two printed copies, 2 x 2 inches (51 x 51 mm), in colour, on photo paper, taken within the last 6 months, meeting every rule above.</p>
+<p>Keep the printed photo and the digital file consistent — same photo, same appearance. An interview where the printed photo, the uploaded photo, and the person in front of the officer all look different invites questions nobody needs. Pack the prints in an envelope, not loose in a bag, so they arrive uncreased and clean. And remember the sequence after the interview: once you have been interviewed, your case is tracked on CEAC, not on the DS-160 form. Our <a href="/blog/how-to-check-us-visa-status-on-ceac">CEAC status guide</a> explains what Issued, Administrative Processing, and Refused mean, and how to check each one — the photo, by then, is long behind you, but the status page is where your answer appears.</p>
+
+<h2>Frequently asked questions</h2>
+<p><strong>Can I use my passport photo for the DS-160?</strong> Only if it meets the visa rules, which are stricter than some passport processes: square JPEG, 600 x 600 to 1200 x 1200 pixels, under 240 KB, plain white or off-white background, taken within the last 6 months, no glasses. A passport photo that meets all of those works fine; a rectangular 35 x 45 mm photo from another country's system does not, and must be retaken in the square US format.</p>
+<p><strong>What happens if my photo is rejected at the interview?</strong> The consulate will usually ask you to provide a compliant photo, which can mean a delay while you get one taken nearby — some posts have photo booths or nearby studios, but not all, and a return visit is possible. This is why the printed backup matters: a compliant print in your folder turns a potential delay into a two-minute fix.</p>
+<p><strong>Can I smile in my US visa photo?</strong> A faint, natural smile with the mouth closed is acceptable. A broad smile showing teeth, laughing, or a frown is not. When in doubt, go fully neutral — neutral never fails the expression check.</p>
+<p><strong>Why does the DS-160 say my photo is too small when it looks fine?</strong> Usually the file is below 600 x 600 pixels, or it was over-compressed below the 20:1 ratio limit. Export at exactly 600 x 600 or larger (up to 1200 x 1200), at normal JPEG quality, and the "too small" error normally disappears.</p>
+<p><strong>Do I need a new photo if I already have a visa photo from a previous application?</strong> If it is older than 6 months, yes — take a fresh one. Even a recent photo reused from a previous application can be flagged, because the system compares it against your earlier record. A new photo costs minutes; a flagged reuse costs weeks.</p>
+`,
+  },
 ];
 
 export function getPost(slug: string): Post | undefined {
