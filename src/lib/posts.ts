@@ -418,6 +418,107 @@ export const posts: Post[] = [  {
 <p><strong>Do I need a new photo if I already have a visa photo from a previous application?</strong> If it is older than 6 months, yes — take a fresh one. Even a recent photo reused from a previous application can be flagged, because the system compares it against your earlier record. A new photo costs minutes; a flagged reuse costs weeks.</p>
 `,
   },
+  {
+    slug: "us-visa-dropbox-eligibility-2026",
+    title: "US Visa Dropbox Eligibility 2026: Who Still Qualifies After the 2025 Rule Change",
+    date: "2026-10-28",
+    excerpt:
+      "Most Dropbox guides online are now out of date. After the September 2025 rule change, only a narrow group still qualifies for interview-waiver renewal — here is exactly who, and how to check.",
+    description:
+      "US visa Dropbox eligibility 2026: who still qualifies after the 2025 narrowing, the 12-month rule, and the step-by-step Dropbox renewal process.",
+    keywords: [
+      "US visa Dropbox eligibility 2026",
+      "US visa interview waiver 2026",
+      "Dropbox visa renewal rules",
+      "B1 B2 Dropbox renewal 12 month rule",
+      "who qualifies for Dropbox 2026",
+    ],
+    toolHref: "/f1-visa-interview",
+    toolName: "F1 Interview Guide",
+    toolCta:
+      "Called in for an interview despite submitting through Dropbox? Our free F1 Interview Guide covers the question groups consular officers actually ask — open it alongside this guide.",
+    contentHtml: `
+<h2>What Dropbox is — and why most guides about it are now wrong</h2>
+<p>US visa Dropbox eligibility 2026 is the most misunderstood topic in visa renewal right now, and the reason is simple: the rules changed, but most of the internet did not. "Dropbox" is the informal name for the US Department of State's Interview Waiver Program, which lets certain renewal applicants submit their documents at a Visa Application Center (VAC) instead of attending an in-person interview at the embassy or consulate. For years it covered a wide range of categories, and during the pandemic era the eligibility window stretched to 48 months after expiry. That era is over.</p>
+<p>In July 2025, the Department of State announced a sharp narrowing of the program, effective September 2, 2025, and a follow-up update on September 18, 2025 — effective October 1, 2025 — set the rules that remain in force through 2026. Under those rules, almost every nonimmigrant applicant now needs an in-person interview, including groups that were previously exempt. If you are reading a guide that still says H-1B renewals qualify for Dropbox, or that children under 14 and adults over 79 are automatically exempt, that guide is describing a program that no longer exists. This article states the current rules as published by the Department of State on travel.state.gov, explains how to test your own case against them, and walks through the renewal process step by step.</p>
+<p>One warning that applies to everything below: eligibility on paper is not a guarantee. A consular officer may require an in-person interview in any case, for any reason. Dropbox is a screening decision the consulate makes, not a right the applicant holds.</p>
+
+<h2>US visa Dropbox eligibility 2026 at a glance</h2>
+<p>Under the September 18, 2025 update, the only applicants who may be eligible for an interview waiver are:</p>
+<table>
+<thead><tr><th>Category</th><th>Dropbox eligible?</th><th>Conditions</th></tr></thead>
+<tbody>
+<tr><td><strong>Diplomatic and official visas</strong> (A-1, A-2, C-3 except attendants, servants or personal employees of accredited officials, G-1 through G-4, NATO-1 through NATO-6, TECRO E-1)</td><td>Yes</td><td>No additional renewal conditions</td></tr>
+<tr><td><strong>B-1, B-2, B1/B2 renewal</strong></td><td>Yes, if all conditions are met</td><td>Prior visa issued for full validity; renewal within 12 months of its expiration; applicant was at least 18 when the prior visa was issued</td></tr>
+<tr><td><strong>Border Crossing Card / Foil</strong> (BBBCC/BBBCV, Mexican applicants)</td><td>Yes, if all conditions are met</td><td>Same 12-month, full-validity, age-18 conditions as B-1/B-2</td></tr>
+<tr><td><strong>H-2A agricultural worker renewal</strong></td><td>Yes, if all conditions are met</td><td>Prior visa issued for full validity; renewal within 12 months of its expiration; applicant was at least 18 when the prior visa was issued</td></tr>
+<tr><td><strong>Every other category</strong> (H-1B, L-1, F-1, J-1, M-1, O-1, E-1, E-2 and all first-time applicants)</td><td>No</td><td>Must attend an in-person interview</td></tr>
+</tbody>
+</table>
+<p>On top of the category conditions, every interview-waiver applicant must also meet three general criteria: apply in their country of nationality or usual residence (diplomatic and certain official applicants excepted), have never been refused a visa unless that refusal was overcome or waived, and have no apparent or potential ineligibility. Fail any one of these and the waiver is off the table, whatever your category.</p>
+
+<h2>Who no longer qualifies — the five groups most people get wrong</h2>
+<p><strong>1. H-1B, L-1, F-1, J-1 and O-1 renewals.</strong> This is the biggest change and the one most old guides miss. Work and study visa renewals — even a same-category renewal with the same employer or the same school — now require an in-person interview. If you hold an H-1B and your visa is expiring, plan for an interview appointment, not a VAC drop-off. Our <a href="/blog/h1b-lottery-wage-weighted-selection-2027">H-1B lottery guide</a> covers the petition side of the process; the consulate stage now always includes a face-to-face interview.</p>
+<p><strong>2. Children under 14 and adults over 79.</strong> The old age-based exemptions are gone. Under the September 2025 update, applicants under 14 and over 79 will generally require an in-person interview like everyone else. If you are renewing a visa for a child or an elderly parent, do not assume the waiver applies — check the current rules for their category instead.</p>
+<p><strong>3. First-time applicants.</strong> The waiver is a renewal instrument only. If you have never held a US visa in the category you are applying for, you are not eligible, whatever your age or travel history.</p>
+<p><strong>4. Anyone whose prior visa expired more than 12 months ago.</strong> The pandemic-era 48-month window is closed. The current window is 12 months from the prior visa's expiration date, and it is measured strictly — a renewal filed 13 months after expiry is an interview case, not a Dropbox case.</p>
+<p><strong>5. Anyone with an unresolved refusal or a potential ineligibility.</strong> A prior refusal that was never overcome or waived disqualifies you, even if you were later approved for a different visa. Likewise, anything that raises an eligibility question — a prior overstay, a misrepresentation issue, a criminal matter — takes you out of the waiver track, because the waiver is reserved for straightforward, low-risk renewals.</p>
+
+<h2>The 12-month rule, explained with examples</h2>
+<p>The 12-month rule is the single most common reason Dropbox applications get bounced into the interview queue, so it is worth pinning down precisely. The rule is: you must be renewing within 12 months of the prior visa's expiration date. The clock runs from the date printed on the old visa, not from the date you last travelled, and not from the date you decided to renew.</p>
+<ul>
+<li><strong>Example 1 — eligible.</strong> Your B1/B2 visa expired on March 10, 2026. You submit your renewal on January 5, 2027, ten months after expiry. You are inside the 12-month window.</li>
+<li><strong>Example 2 — not eligible.</strong> Your B1/B2 visa expired on March 10, 2025. You submit your renewal on June 1, 2026, nearly 15 months after expiry. You are outside the window and must interview, even if everything else about your case is clean.</li>
+<li><strong>Example 3 — eligible, but check the other conditions.</strong> Your B1/B2 visa is still valid and expires in two months. A still-valid visa is within the window, but you must still satisfy the full-validity, age-18, same-category, no-refusal and residence conditions.</li>
+</ul>
+<p>Two subtleties catch people out. First, "full validity" matters: if your prior visa was issued for less than the normal full validity period for your country and category — for example a limited-validity visa issued because of a reciprocity or administrative reason — it does not count, even if it expired within 12 months. Second, the age condition is measured at the time the prior visa was issued, not at renewal: you must have been at least 18 years old when that prior visa was issued. Someone whose first B1/B2 was issued at age 16 and who is now 25 cannot use that visa as the basis for a waiver.</p>
+
+<h2>Step by step: how to renew through Dropbox</h2>
+<p>If you pass the eligibility test above, the process runs through the same appointment system as an interview application — the waiver decision is made inside that system, not by a separate application. The exact portal varies by country, so follow your embassy or consulate's own instructions, but the sequence is consistent:</p>
+<ol>
+<li><strong>Complete the DS-160 form.</strong> Fill out the online nonimmigrant visa application at ceac.state.gov and save the confirmation page — its barcode number is the key that links your application to everything that follows. Your photo must meet the upload rules; our <a href="/blog/ds-160-photo-requirements-2026">DS-160 photo guide</a> covers the exact pixel, size and framing specs, because a rejected photo stalls a Dropbox submission just as surely as it stalls an interview case.</li>
+<li><strong>Create your profile on the appointment portal and pay the fee.</strong> Pay the applicable nonimmigrant visa application fee through the portal's payment options and keep the receipt number — you will need it, with your passport number and DS-160 barcode, to book.</li>
+<li><strong>Answer the interview-waiver questionnaire.</strong> The portal asks a series of eligibility questions drawn from the rules above: same category, expiry within 12 months, full validity, age at issuance, refusal history, and country of application. Answer exactly, from your documents — the system routes you to a VAC drop-off or an interview based on these answers, and a wrong answer that routes you to Dropbox when you are not eligible costs you weeks when the consulate re-routes the case.</li>
+<li><strong>Book the VAC drop-off appointment.</strong> If the questionnaire confirms waiver eligibility, the portal offers a document submission appointment at a Visa Application Center instead of a consular interview. Pick the earliest slot you can attend — the appointment is for document drop-off, not an interview, but missing it still delays the case.</li>
+<li><strong>Submit your documents at the VAC.</strong> Bring your current passport and any prior passports containing US visas, the DS-160 confirmation page, the fee receipt, the appointment confirmation, and any supporting documents your post lists. The VAC takes your fingerprints and photograph if required and forwards the file to the consulate.</li>
+<li><strong>Track the case on CEAC.</strong> After submission, your case is tracked exactly like an interview case. Our <a href="/blog/how-to-check-us-visa-status-on-ceac">CEAC status guide</a> explains what Issued, Administrative Processing and Refused mean and why the status may sit unchanged for days after submission.</li>
+</ol>
+<p>Note the timing trap: a Dropbox submission is not faster by magic. It skips the interview queue, but the consulate still adjudicates the case, and it can still go into Administrative Processing or be called in for an interview. If your travel is date-critical, apply as early as the portal allows and do not book non-refundable travel until the status shows Issued.</p>
+
+<h2>Dropbox documents checklist</h2>
+<p>Posts publish their own document lists, and the portal tells you what to bring for your specific case, but the core set is consistent. Treat this as a starting checklist and confirm it against your post's instructions:</p>
+<ul>
+<li>Current passport, valid for at least six months beyond your intended stay, plus prior passports holding previous US visas</li>
+<li>DS-160 confirmation page with barcode</li>
+<li>Visa application fee receipt</li>
+<li>VAC appointment confirmation page</li>
+<li>One compliant visa photograph, if your post asks for a physical photo (the DS-160 upload rules apply — see our <a href="/blog/ds-160-photo-requirements-2026">photo guide</a>)</li>
+<li>Supporting documents for your category: for B-1/B-2, evidence of ties to your home country and the purpose of travel; for H-2A, the approved petition documents your employer provides</li>
+<li>Any prior refusal or waiver paperwork, if a previous refusal was overcome — bring the evidence, because the waiver questionnaire's refusal question is checked against the record</li>
+</ul>
+<p>Do not bring extra originals the post did not ask for "just in case" — VAC staff forward what the checklist specifies, and unsolicited documents do not strengthen a waiver case. What strengthens it is consistency: the same names, dates and answers across the DS-160, the fee record and the supporting documents.</p>
+
+<h2>If the consulate calls you in for an interview anyway</h2>
+<p>A Dropbox submission can still end in an interview, and this is normal, not a punishment. The consulate may call you in because something in the file needs clarification, because a document is missing, because a security check raised a question, or simply as a random quality check. If that happens, three things matter. First, respond fast — the interview notice gives a window, and missing it can mean starting over. Second, bring the full supporting set, not just the Dropbox checklist, because the interview is now a full adjudication: proof of ties, finances, and travel purpose. Third, prepare answers, not documents alone: if you are a student whose category changed, our <a href="/blog/f1-visa-interview-questions-2026">F1 interview guide</a> shows how officers test genuine-student, funding and home-tie questions in a few short minutes, and the same discipline — short, specific, consistent answers — applies to a B-1/B-2 interview called out of Dropbox.</p>
+<p>The same logic applies if the case goes into Administrative Processing after a Dropbox submission. Processing means additional review, not refusal, and the correct response is to provide exactly what is asked for and wait — not to file a second application. Our <a href="/blog/how-to-check-us-visa-status-on-ceac">CEAC guide</a> walks through that status in detail.</p>
+
+<h2>Five mistakes that kill a Dropbox application</h2>
+<ul>
+<li><strong>Trusting an outdated guide.</strong> Any guide that mentions the 48-month window, H-1B Dropbox eligibility, or automatic age exemptions is describing pre-September 2025 rules. Check the date on every guide you read, and confirm against travel.state.gov before you rely on it.</li>
+<li><strong>Answering the waiver questionnaire from memory.</strong> The expiry date, the validity period and your age at issuance are all printed on the old visa. Read them off the document, not from memory — a single wrong answer can route you to the wrong track.</li>
+<li><strong>Applying from a third country.</strong> The waiver requires application in your country of nationality or usual residence. Applying somewhere with a shorter queue costs you the waiver entirely.</li>
+<li><strong>Hiding a prior refusal.</strong> The record is checked. A refusal you do not disclose, or one you describe as "overcome" when it was not, converts a routine renewal into a credibility problem.</li>
+<li><strong>Booking travel before the visa is issued.</strong> Dropbox processing times vary by post and by case. Until CEAC shows Issued and the passport is in hand, the trip is not certain.</li>
+</ul>
+
+<h2>Frequently asked questions</h2>
+<p><strong>Is Dropbox still available in 2026?</strong> Yes, but narrowly. B-1/B-2 and Border Crossing Card renewals within 12 months of a full-validity prior visa, H-2A renewals on the same terms, and diplomatic and official visas remain eligible. H-1B, L-1, F-1, J-1, O-1 and other work and study renewals are not.</p>
+<p><strong>Does Dropbox mean my visa is guaranteed?</strong> No. The waiver skips the interview, not the adjudication. The consulate can still refuse the visa, request more documents, place the case in Administrative Processing, or call you in for an interview.</p>
+<p><strong>My prior visa expired 14 months ago. Can I still use Dropbox?</strong> No. The window is 12 months from expiry, measured strictly. At 14 months you must attend an in-person interview, even if every other condition is satisfied.</p>
+<p><strong>Can children under 14 renew through Dropbox?</strong> Not on age grounds — the under-14 exemption was removed in September 2025. A child renewing a B-1/B-2 visa may still qualify under the B-1/B-2 renewal conditions, but only if the prior visa was full-validity, expired within 12 months, and the child was at least 18 when it was issued — which, for a child, will rarely be the case. In practice, most child renewals now require an interview.</p>
+<p><strong>What if my Dropbox application is sent back for an interview?</strong> Attend the interview with the full supporting set and prepared, consistent answers. A call-in is a routine part of the process, not a refusal, and many called-in cases are approved at the interview.</p>
+`,
+  },
 ];
 
 export function getPost(slug: string): Post | undefined {
